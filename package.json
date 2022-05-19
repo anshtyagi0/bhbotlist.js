@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhbotlist-tech/api.git"
+    "url": "git+https://github.com/@anshtyagi0/bhbotlist.js.git"
   },
   "keywords": [
     "bot",
@@ -25,10 +25,10 @@
     "control",
     "force"
   ],
-  "author": "BHBOTLIST",
+  "author": "@anshtyagi0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bhbotlist-tech/api/issues"
+    "url": "https://github.com/@anshtyagi0/bhbotlist.js/issues"
   },
-  "homepage": "https://github.com/bhbotlist-tech/api#readme"
+  "homepage": "https://github.com/@anshtyagi0/bhbotlist.js#readme"
 }
