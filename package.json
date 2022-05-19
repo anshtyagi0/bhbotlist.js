@@ -1,0 +1,34 @@
+{
+  "name": "@anshtyagi0/bhbotlist.js",
+  "version": "3.0.4",
+  "description": "A official bhbotlist.tech api.",
+  "main": "bhbotlist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhbotlist-tech/api.git"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "bhbotlist",
+    "api",
+    "bots",
+    "bot",
+    "vote",
+    "check",
+    "votes",
+    "control",
+    "force"
+  ],
+  "author": "BHBOTLIST",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhbotlist-tech/api/issues"
+  },
+  "homepage": "https://github.com/bhbotlist-tech/api#readme"
+}
